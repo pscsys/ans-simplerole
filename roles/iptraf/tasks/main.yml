@@ -1,0 +1,3 @@
+---
+- name: Install iptraf package
+  yum: name=iptraf state=installed
